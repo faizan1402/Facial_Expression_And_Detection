@@ -1,0 +1,30 @@
+What is facial recognition and how does it work?
+Ans -Facial recognition is a way of recognizing a human face through technology. A facial recognition system
+ uses biometrics to map facial features from a photograph or video. It compares the information with a
+ database of known faces to find a match.
+
+
+How Does Face Recognition Work?
+Now you must be wondering, “What data does facial recognition use to operate and provide near-accurate results?”
+
+Well, face recognition technology works by identifying specific nodal points of a human face.
+Some face recognition software can identify as many as 80 nodal points of a face.
+ Along with the help of technologies such as thermal imaging, 3D face mapping, 
+skin surface textual analysis, etc., it determines facial features – from the length or width of the nos
+and the depth of the eye sockets to the shape of the cheekbones – to create a digital image of an individual’s
+face and store the data as a face print. This face print is used every time there is a need to 
+compare data captured from faces in a particular image or video frame.
+
+Think of it this way: You recognise most of your friends instantly, even if they are at a distance.
+ What makes them recognisable? You look at the shape of their face, eyes, cheeks, lips, nose, etc. 
+You identify them by their unique facial features.
+
+How Does Face Recognition Work
+
+Similarly, when a face recognition algorithm identifies a human face, it works on the following steps:
+
+A picture of your face is captured from an image or a video.
+The software reads the geometry of your face like you do when trying to recognise someone.
+The face reading acquired through a mathematical formula is compared to a database of stored images, 
+exactly how your brain would try to identify your friend.
+Voila! The software has recognised the face print in its database.
