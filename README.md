@@ -16,7 +16,7 @@
  
  # Tools : 
    Different tools run the code 
-   Anaconda Prompt Using Spyder
+   Anaconda Prompt Using Spyder and also run the same path in 
    Pycharm Community :
 
 # What is facial emotion recognition?
