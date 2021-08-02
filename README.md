@@ -40,8 +40,11 @@ It does this by analyzing faces in images or video through computer powered came
  
  # Face Landmark Detection
  # Facial Expression and Emotion Classification
- # which technology is used facial expression and facial detection?
+ # Which technology is used facial expression and facial detection?
  Facial expression recognition software is a technology which uses biometric markers to detect emotions in human faces.
+ 
+ # Which algorithm is used for face detection?
+ Eigenface-Based:- Eigenface based algorithm used for Face Recognition, and it is a method for efficiently representing faces using Principal Component Analysis
 
 
 
